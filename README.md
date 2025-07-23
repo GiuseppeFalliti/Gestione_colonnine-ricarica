@@ -43,7 +43,8 @@ Un sistema completo per la gestione e il monitoraggio di stazioni di ricarica pe
 │   ├── views.py           # Logica delle API
 │   ├── urls.py            # URL routing dell'app
 │   └── admin.py           # Configurazione admin
-└── manage.py              # Script di gestione Django```
+└── manage.py              # Script di gestione Django
+```
 
 ## Installazione
 
