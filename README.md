@@ -33,19 +33,17 @@ Un sistema completo per la gestione e il monitoraggio di stazioni di ricarica pe
 
 ## Architettura
 
-```
-charging_system/
+```charging_system/
 ├── charging_system/          # Configurazione principale Django
 │   ├── settings.py          # Impostazioni del progetto
 │   ├── urls.py             # URL routing principale
 │   └── wsgi.py             # WSGI configuration
 ├── stations/               # App principale per le stazioni
-│   ├── models.py           # Modelli di dati
-│   ├── views.py            # Logica delle API
-│   ├── urls.py             # URL routing dell'app
-│   └── admin.py            # Configurazione admin
-└── manage.py               # Script di gestione Django
-```
+│   ├── models.py          # Modelli di dati
+│   ├── views.py           # Logica delle API
+│   ├── urls.py            # URL routing dell'app
+│   └── admin.py           # Configurazione admin
+└── manage.py              # Script di gestione Django```
 
 ## Installazione
 
