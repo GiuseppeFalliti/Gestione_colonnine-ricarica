@@ -1,5 +1,3 @@
-Ecco la versione ripulita del tuo README.md, con i caratteri nulli rimossi, la sintassi Markdown corretta, blocchi di codice chiusi e tabelle sistemate. Puoi copiare questo testo e sovrascrivere il tuo README.md su GitHub.
-
 ```markdown
 # Sistema di Gestione Colonnine di Ricarica
 Un sistema completo per la gestione e il monitoraggio di stazioni di ricarica per veicoli elettrici, sviluppato con Django e compatibile con il protocollo OCPP (Open Charge Point Protocol).
